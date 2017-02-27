@@ -1,0 +1,24 @@
+# main links
+main:
+  - title: "About"
+    url: /about
+  - title: "Colophon"
+    url: /colophon
+  - title: "Apache Community Development"
+    url: https://community.apache.org/
+  
+sbmenu:
+- title: The Six Ways
+  children:
+    - title: "Community"
+      url: /community/
+    - title: "Open"
+      url: /open/
+    - title: "Merit"
+      url: /merit/
+    - title: "Consensus"
+      url: /consensus/
+    - title: "Charity"
+      url: /charity/
+    - title: "Pragmatic"
+      url: /pragmatic/

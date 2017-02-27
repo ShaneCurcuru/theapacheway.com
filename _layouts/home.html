@@ -1,0 +1,11 @@
+---
+layout: archive
+---
+
+<h3 class="archive__subtitle">{{ site.ways.excerpt }}</h3>
+
+{% include base_path %}
+
+{% for post in site.ways %}
+  {% include archive-single.html %}
+{% endfor %}

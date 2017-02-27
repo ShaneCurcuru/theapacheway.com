@@ -1,0 +1,6 @@
+{% assign thiscol = site.collections | where: "label", "ways" | first %}
+<h3>{{ thiscol.excerpt }}</h3>
+
+{% for post in site.ways %}
+  {% include archive-single.html %}
+{% endfor %}
