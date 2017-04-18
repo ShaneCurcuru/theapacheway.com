@@ -18,7 +18,7 @@ tags:
 
 <q>Community over Code</q> is a frequent saying that exemplifies Apache projects.  A healthy Community uses Openness and Merit, expressed through Collaborative and Consensus driven work, to build lasting projects that use a Pragmatic License. While acting like a diverse community is a requirement for every Apache project, we also expect people to contribute as Individuals, and wear appropriate Hats.
 
-The community behind a project are empowered with the technical decision-making for that project. Apache projects must follow a brief set of organizational rules, but otherwise technical and other decisions are completely up to the project and it's PMC.
+The community behind a project are empowered with the technical decision-making for that project. Apache projects must follow a brief set of organizational rules, but otherwise technical and other decisions are completely up to the project and its PMC.
 
 Some key aspects of Community are:
 
