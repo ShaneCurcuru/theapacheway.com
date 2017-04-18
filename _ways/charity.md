@@ -17,6 +17,6 @@ The original Certificate of Incorporation ensures that the ASF operates as a pub
 
 *[ASF]: Apache Software Foundation
 
-The ASF is a public charity, and it's purpose is to give away all of the software projects that it hosts. The point of this charity is for the public good - which includes everyone. Thus we use the pragmatic Apache License to ensure maximum freedom of all users who may choose to use our software.
+The ASF is a public charity, and its purpose is to give away all of the software projects that it hosts. The point of this charity is for the public good - which includes everyone. Thus we use the pragmatic Apache License to ensure maximum freedom of all users who may choose to use our software.
 
-The ASF will never charge for the use of it's software. All Apache projects provide all code and basic mailing list support for free, without any requirements (other than basic netiquette when participating on our mailing lists).
+The ASF will never charge for the use of its software. All Apache projects provide all code and basic mailing list support for free, without any requirements (other than basic netiquette when participating on our mailing lists).
