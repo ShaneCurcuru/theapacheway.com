@@ -40,7 +40,7 @@ Diversity of learning and experiences within a community is often a bonus. Commi
 
 ## Hats
 
-Everyone within a community comes with their own background, and may perform different roles within the community: user, writer, developer, PMC member. The concept of Hats relates to the roles you may play within a communty at various times.
+Everyone within a community comes with their own background, and may perform different roles within the community: user, writer, developer, PMC member. The concept of Hats relates to the roles you may play within a community at various times.
 
 When you're requesting a new feature, you're wearing your user Hat. When checking in code to fix a bug, you're wearing your Committer Hat. Votes on project releases are made while wearing your PMC member hat. While the difference is sometimes subtle, in a perfect world it's an important lens to consider your actions through.
 
