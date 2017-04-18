@@ -15,7 +15,7 @@ tags:
   - PMCs
 ---
 
-Merit defines who is allowed to participate at various levels within a project community. Users help a project over time, and existing Committers Vote to invite the user to become a committer. Committers are allowed write access to the project's source code, allowing them to imrpove the project. Strong communities rely on Openness in their work, usually on public Mailing Lists, to be able to recognize merit. Merit accurues to individuals regardless of affiliations, and typically does not expire.
+Merit defines who is allowed to participate at various levels within a project community. Users help a project over time, and existing Committers Vote to invite the user to become a committer. Committers are allowed write access to the project's source code, allowing them to improve the project. Strong communities rely on Openness in their work, usually on public Mailing Lists, to be able to recognize merit. Merit accurues to individuals regardless of affiliations, and typically does not expire.
 
 
 Merit accrues to Individuals through their visible and productive work within a community. To put it another way, merit is the invisible currency that you gain by contributing useful work to the project. There are a number of common aspects to merit as it's recognized within The Apache Way, the most important one is it's recognition by the community. You don't gain merit by simply doing a lot of work; you gain merit by doing things the community values.
