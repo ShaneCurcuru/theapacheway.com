@@ -46,7 +46,7 @@ When you're requesting a new feature, you're wearing your user Hat. When checkin
 
 For example, as a user you might want your new feature shipped as soon as possible, because your organization needs to deploy it. When properly applying The Apache Way, however, as a PMC member you probably shouldn't propose a release vote until the project as a whole is tested and stabilizes its API. Good community members often realize this distinction, and are happy to simply pull a changeset locally to your own organization to deploy just the new feature, while continuing to work with the community on getting to the right place for the next project release.
 
-Hats are also another aspect of your Affiliations. While we hope committers keep their Committer Hat squarely on when checking in code, we realize that everyone has their own, external reasons for particpating here – whether because of your dayjob employer, because of a consulting contract, or because you are seeking the fame and fortune of being an open source contributor. (Hint: fame and fortune not guaranteed.)
+Hats are also another aspect of your Affiliations. While we hope committers keep their Committer Hat squarely on when checking in code, we realize that everyone has their own, external reasons for participating here – whether because of your dayjob employer, because of a consulting contract, or because you are seeking the fame and fortune of being an open source contributor. (Hint: fame and fortune not guaranteed.)
 
 ## Mailing Lists
 
