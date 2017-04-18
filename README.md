@@ -5,4 +5,4 @@ All submissions must be under the Apache License 2.0.
 
 ## Credits - See Colophon
 
-Credits for the Minimal-Mistakes theme used here and the text content about the ways & aspects is in the Colophon[http://theapacheway.com/colophon].
+Credits for the Minimal-Mistakes theme used here and the text content about the ways & aspects is in the [Colophon](http://theapacheway.com/colophon).
