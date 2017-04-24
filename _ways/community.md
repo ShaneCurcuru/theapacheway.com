@@ -18,7 +18,7 @@ tags:
 
 <q>Community over Code</q> is a frequent saying that exemplifies Apache projects.  A healthy Community uses Openness and Merit, expressed through Collaborative and Consensus driven work, to build lasting projects that use a Pragmatic License. While acting like a diverse community is a requirement for every Apache project, we also expect people to contribute as Individuals, and wear appropriate Hats.
 
-The community behind a project are empowered with the technical decision-making for that project. Apache projects must follow a brief set of organizational rules, but otherwise technical and other decisions are completely up to the project and it's PMC.
+The community behind a project are empowered with the technical decision-making for that project. Apache projects must follow a brief set of organizational rules, but otherwise technical and other decisions are completely up to the project and its PMC.
 
 Some key aspects of Community are:
 
@@ -40,13 +40,13 @@ Diversity of learning and experiences within a community is often a bonus. Commi
 
 ## Hats
 
-Everyone within a community comes with their own background, and may perform different roles within the community: user, writer, developer, PMC member. The concept of Hats relates to the roles you may play within a communty at various times.
+Everyone within a community comes with their own background, and may perform different roles within the community: user, writer, developer, PMC member. The concept of Hats relates to the roles you may play within a community at various times.
 
 When you're requesting a new feature, you're wearing your user Hat. When checking in code to fix a bug, you're wearing your Committer Hat. Votes on project releases are made while wearing your PMC member hat. While the difference is sometimes subtle, in a perfect world it's an important lens to consider your actions through.
 
-For example, as a user you might want your new feature shipped as soon as possible, because your organization needs to deploy it. When properly applying The Apache Way, however, as a PMC member you probably shouldn't propose a release vote until the project as a whole is tested and stabilizes it's API. Good community members often realize this distinction, and are happy to simply pull a changeset locally to your own organization to deploy just the new feature, while continuing to work with the community on getting to the right place for the next project release.
+For example, as a user you might want your new feature shipped as soon as possible, because your organization needs to deploy it. When properly applying The Apache Way, however, as a PMC member you probably shouldn't propose a release vote until the project as a whole is tested and stabilizes its API. Good community members often realize this distinction, and are happy to simply pull a changeset locally to your own organization to deploy just the new feature, while continuing to work with the community on getting to the right place for the next project release.
 
-Hats are also another aspect of your Affiliations. While we hope committers keep their Committer Hat squarely on when checking in code, we realize that everyone has their own, external reasons for particpating here – whether because of your dayjob employer, because of a consulting contract, or because you are seeking the fame and fortune of being an open source contributor. (Hint: fame and fortune not guaranteed.)
+Hats are also another aspect of your Affiliations. While we hope committers keep their Committer Hat squarely on when checking in code, we realize that everyone has their own, external reasons for participating here – whether because of your dayjob employer, because of a consulting contract, or because you are seeking the fame and fortune of being an open source contributor. (Hint: fame and fortune not guaranteed.)
 
 ## Mailing Lists
 
