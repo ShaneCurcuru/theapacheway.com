@@ -12,4 +12,4 @@ tags:
 
 The Apache Infrastructure team provides basic maintenance of all hardware and cloud resources in the core ASF infrastructure. Note that we rely on a large network of mirror operators to serve actual downloads of official releases.
 
-Master code repositories and specific other data must be hosted on officially supported Apache infrastructure, to ensure that the ASF is a master of it's own fate.  Other services may be run on outside provider services, as long as the ASF can provide oversight, have full data access, and can provide backups in case the outside provider disappears.
+Master code repositories and specific other data must be hosted on officially supported Apache infrastructure, to ensure that the ASF is a master of its own fate.  Other services may be run on outside provider services, as long as the ASF can provide oversight, have full data access, and can provide backups in case the outside provider disappears.
