@@ -1,14 +1,14 @@
 ---
 title: "Terms / Privacy Policy"
 excerpt: "This site uses Google Analytics."
-permalink: /terms
+permalink: /terms/
 layout: single
 share: false
 ---
 
 ## Terms And Conditions
 
-Original content copyright (c) 2017 Shane Curcuru under the [Apache License 2.0](LICENSE).  See [NOTICE](NOTICE) for further license information.
+Original content copyright (c) 2017-2018 Shane Curcuru under the [Apache License 2.0](LICENSE).  See [NOTICE](NOTICE) for further license information.
 
 While the best effort is made to ensure that factual data about organizations is correct, no warranty is made for the information on this website.  No legal advice is provided at this site.
 

@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "aspects"
-permalink: /aspects
+title: "Various aspects of the Apache Way"
+permalink: /aspects/
 author_profile: false
 ---
 
