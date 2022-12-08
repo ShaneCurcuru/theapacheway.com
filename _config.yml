@@ -229,6 +229,10 @@ compress_html:
     envs: development
 
 # Collections - expose data via archive pages
+aspects: Detailed aspects of behavior that make up the Apache way
+ways: Main principles of behavior behind the Apache way
+mottos: Some of the slogans associated with The Apache Way
+
 collections:
   ways:
     output: true
@@ -238,6 +242,11 @@ collections:
   aspects:
     output: true
     excerpt: "The many different aspects of the Apache Way"
+    permalink: /:collection/:path/
+
+  mottos:
+    output: true
+    excerpt: "Some common mottos of the Apache Way"
     permalink: /:collection/:path/
 
 # Defaults
@@ -262,5 +271,10 @@ defaults:
   - scope: # _aspects directory (low level concepts)
       path: ""
       type: aspects
+    values:
+      author_profile: false
+  - scope: # _mottos directory (catch phrases or slogans)
+      path: ""
+      type: mottos
     values:
       author_profile: false

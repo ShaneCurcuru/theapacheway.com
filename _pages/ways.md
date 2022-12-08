@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "ways"
-permalink: /ways
+title: "The major concepts of Apache Way"
+permalink: /ways/
 author_profile: false
 ---
 
