@@ -21,7 +21,7 @@ must be done by the community on one of Apache's archived mailing lists.
 Discussions and plan proposals often happen at events, in chats (Slack, 
 IRC, IM, etc.) or other synchronous places.  But all final **decisions** 
 about executing on the plan, checking in the new code, or launching the 
-website must be made by the community asyncrhonously on the mailing list.
+website must be made by the community asynchronously on the mailing list.
 
 ## What does "on the mailing list" mean?
 
