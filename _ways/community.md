@@ -16,7 +16,7 @@ tags:
   - Diversity
 ---
 
-<q>Community over Code</q> is a frequent saying that exemplifies Apache projects.  A healthy Community uses Openness and Merit, expressed through Collaborative and Consensus driven work, to build lasting projects that use a Pragmatic License. While acting like a diverse community is a requirement for every Apache project, we also expect people to contribute as Individuals, and wear appropriate Hats.
+*Community over Code* is a frequent saying that exemplifies Apache projects.  A healthy Community uses Openness and Merit, expressed through Collaborative and Consensus driven work, to build lasting projects that use a Pragmatic License. While acting like a diverse community is a requirement for every Apache project, we also expect people to contribute as Individuals, and wear appropriate Hats.
 
 The community behind a project are empowered with the technical decision-making for that project. Apache projects must follow a brief set of organizational rules, but otherwise technical and other decisions are completely up to the project and its PMC.
 
@@ -51,4 +51,3 @@ Hats are also another aspect of your Affiliations. While we hope committers keep
 ## Mailing Lists
 
 Work at Apache is done on mailing lists. Nearly all of these lists are publicly archived. An old adage is: "If it didn't happen on-list, it didn't happen." Ensuring that all work and especially all decisions happen on-list ensures that the entire community is able to participate.
-

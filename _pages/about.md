@@ -21,7 +21,7 @@ This site is Shane's attempt at providing a solid explanation of the key concept
 
 ### Make Suggestions And Discuss The Apache Way
 
-This site is in a <a href="https://github.com/{{ site.repository }}">GitHub repository</a>, so all Apache committers are welcome to make Pull Requests.  Note this is not an official Apache project.  All submissions must be under the [Apache License 2.0](LICENSE).
+This site is in a [GitHub repository](https://github.com/{{ site.repository }}), so all Apache committers are welcome to make Pull Requests.  Note this is not an official Apache project.  All submissions must be under the [Apache License 2.0](LICENSE).
 
 To discuss the Apache Way or learn more about how best to work with any Apache project, please see the [Apache Community Development project](//community.apache.org/), and participate in the [dev@community mailing list](https://lists.apache.org/list.html?dev@community.apache.org).
 
