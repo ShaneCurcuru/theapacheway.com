@@ -22,3 +22,13 @@ sbmenu:
       url: /charity/
     - title: "Pragmatic"
       url: /pragmatic/
+- title: More Ways
+  children:
+    - title: "All Aspects"
+      url: /aspects/
+    - title: "All Mottos"
+      url: /mottos/
+    - title: "All By Tag"
+      url: /tags/
+    - title: "All By Category"
+      url: /categories/
