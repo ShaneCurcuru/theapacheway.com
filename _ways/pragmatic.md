@@ -15,7 +15,7 @@ tags:
   - Servers
 ---
 
-The mission of the ASF is to provide software for the public good. We use the Apache License to do this, which ensures that users of our software have the freedom to use our software however they see fit – even in proprietary products. Our steadfast belief in freedom for our users both serves our public purpose, as well as ensures that users from all areas are able to - and often desire to - contribute back to our communities. Our pragmatic license allows contributors from individuals to corporate teams to join together, secure in the knowledge that their product is freely usable by all.
+The mission of the ASF is to provide software for the public good. We use the [Apache License](https://www.apache.org/licenses/) to do this, which ensures that users of our software have the freedom to use our software however they see fit – even in proprietary products. Our steadfast belief in freedom for our users both serves our public purpose, as well as ensures that users from all areas are able to - and often desire to - contribute back to our communities. Our pragmatic license allows contributors from individuals to corporate teams to join together, secure in the knowledge that their product is freely usable by all.
 
 Pragmatism is about doing what makes sense for the community and the all of public, without other agendas. As a public charity, adopting a pragmatic attitude about licensing and community is a key part of our success. Our pragmatism is primarily defined through our license, which we require all of our projects to use on the software products they release. Pragmatism is also shown through how we prefer diverse, consensus based communities for our development work.
 

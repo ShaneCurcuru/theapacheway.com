@@ -15,7 +15,7 @@ The biggest mantra at Apache is: "Community over code". In brief, this means tha
 
 Obviously, the code needs to be useful; that's what makes it worthwhile to work on over time. But while the best code around right now may turn into a tool that everyone uses today, the best community around will create and maintain a project that everyone helps build and improve for the long term.
 
-_Community Over Code_ is a way of encouraging long-term collaborative and stable projects that have a robust enough set of people working on them to be productively self-governing of the community while they continue to maintain the code.
+_Community Over Code_ is a way of encouraging long-term collaborative and stable projects that have a robust enough set of people working on them to be productively self-governing of the community while they continue to maintain the code.  *[Community Over Code](https://communityovercode.org/) is also the new name for our [ApacheCon conference](https://communityovercode.org/)!*
 
 ## What this means in practice
 
@@ -45,6 +45,7 @@ As a whole mindset about effective ways to build software products over time, th
 
 This phrase is used on the official apache.org website in many places, although there isn't a comprehensive text reference as to why this is such a deeply important concept to the Apache Way.
 
+- [ApacheCon was formally renamed](https://news.apache.org/foundation/entry/announcing-our-annual-event-community-over-code) '[Community Over Code](https://communityovercode.org/)', to better emphasize our focus on communities.
 - [Foundation 15th birthday post discussing the concept at length](https://blogs.apache.org/foundation/entry/asf_15_community_over_code) and explains "When projects report to the board each month, the board isn't evaluating their technical progress, but, rather, is considering whether the project is conducting itself in a way that is sustainable, welcoming to newcomers, and has a community that is large enough and healthy enough to continue making decisions about the future of the project."
 - [Success at Apache: The Apache Way for Executives provides some real life applications](https://blogs.apache.org/foundation/entry/success-at-apache-the-apache) and explains "It does not matter how much code you write, or how good your code is if you cannot get along, compromise, and communicate respectfully with your peers. The code does not write itself, its the community behind it that keeps the code alive."
 - [ComDev lists this several times](https://community.apache.org/newbiefaq.html#is-there-a-code-of-conduct-for-apache-projects)
